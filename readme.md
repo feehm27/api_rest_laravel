@@ -25,7 +25,8 @@ Orientações para executar o teste técnico:
     - Listagem de dados: 
     http://127.0.0.1:8000/api/funcionarios/list 
     
-2) Campos utilizados para o método de inserção: nome, telefone, cpf, endereço, cidade e estado.
+2) Campos utilizados para a entidade Funcionario: nome, telefone, cpf, endereço, cidade e estado. 
+   - Os campos data de criação e data de atualização são atualizados automaticamente.
 
 3) Caminhos de acesso as codificações: 
 
