@@ -8,7 +8,8 @@ Configurações necessárias:
 
 - Laravel Framework 5.8.33
 - Mysql 8.0.17 
-- Postman 
+- PHP 7.1.31
+- Framework Postman 
 
 Orientações para executar o teste técnico: 
 
