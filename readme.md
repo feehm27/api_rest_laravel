@@ -1,10 +1,14 @@
+Descrição do projeto:
+
+- API REST que realiza as ações básicas de inserção, atualização, consulta e deleção da entidade Funcionário. 
+
 Configurações necessárias:
 
 - Laravel Framework 5.8.33
 - Mysql 8.0.17 
 - Postman 
 
-Orientações para rodar o teste técnico: 
+Orientações para executar o teste técnico: 
 
 1) Acessar as URL'S listadas abaixo no Framework Postman: 
 
