@@ -33,7 +33,7 @@ Orientações para executar o teste técnico:
 
    - Codificação das rotas: routes/api.php
    - Codificação de criação dos campos: database/migrates/2019_08_24_130554_create_table_funcionarios.php
-   - Códificação com as funções do CRUD: app\http\controllers\api\FuncionarioController.php
+   - Códificação com as funções do CRUD: app/http/controllers/api/FuncionarioController.php
   
 
 
